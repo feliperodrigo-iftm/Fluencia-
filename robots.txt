@@ -1,0 +1,5 @@
+# robots.txt de https://feliperodrigo-iftm.github.io/Fluencia-/
+User-agent: *
+Disallow:
+
+Sitemap: https://feliperodrigo-iftm.github.io/Fluencia-/sitemap.xml
